@@ -8,6 +8,6 @@ The content that has my Java Projects:
 - OOP Exercise
 - Reading and Writing Files
 - WriteObjects and ReadObjects
-- MySQL Connection (Driver including)
+- MySQL Connection and queries (Driver included)
 - Dynamic web project (WebServlet)
 
