@@ -1,5 +1,5 @@
 # projectsJava
-##This is first part of my Java projects that I have developed in Eclipse.
+## This is first part of my Java projects that I have developed in Eclipse.
 
 The content that has my Java Projects:
 
